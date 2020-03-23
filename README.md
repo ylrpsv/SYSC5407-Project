@@ -6,3 +6,6 @@ Simulation of Queuing Model Effect on Quality of Service Using OpNet
 - Farzaneh Naeimipoor
 - Liran Yang 
 
+### structure
+- code folder containers the project file of OpNet
+- projectanswer folder includes all the simulation result
